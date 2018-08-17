@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sydney Stickfighting
-email: balintawak+ssf@gmail.com
+email: balintawak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Visayan Martial Arts is a martial arts/self defence school from Cebu City,
   the Central Philippines initiated by instructors John Russell and Henry Jayme
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: keyhitman
 
 # Build settings
 markdown: kramdown
