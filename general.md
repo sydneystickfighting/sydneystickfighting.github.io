@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General Kali
+title: General FMA
 permalink: general
 ---
 
