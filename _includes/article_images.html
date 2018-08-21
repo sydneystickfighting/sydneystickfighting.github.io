@@ -1,0 +1,13 @@
+<div class="article-images">
+  {% assign pageurl = page.url | slugify | remove: "-html" %}
+  {% for file in site.static_files %}
+    {% if file.path contains "Gem" %}
+
+    {% else %}
+      {% assign filepath = file.path | slugify %}
+      {% if filepath contains pageurl %}
+        <figure><img src="{{ file.path }}" alt="---" /></figure>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
