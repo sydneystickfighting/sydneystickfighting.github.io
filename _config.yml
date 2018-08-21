@@ -37,3 +37,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  sinawali:
+    output: true
+  balintawak:
+    output: true
+  quebec:
+    output: true
+  general:
+    output: true
