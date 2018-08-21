@@ -5,5 +5,5 @@ permalink: ammara-sinawali
 ---
 
 {%- for item in site.sinawali -%}
-  {{ item.content }}
+w  {{ item.content }}
 {%- endfor -%}

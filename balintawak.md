@@ -5,5 +5,5 @@ permalink: balintawak
 ---
 
 {%- for item in site.balintawak -%}
-  {{ item.content }}
+  <a href="{{ item.url }}">{{ item.title }}</a>
 {%- endfor -%}
