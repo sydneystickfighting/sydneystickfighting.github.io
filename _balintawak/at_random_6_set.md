@@ -13,6 +13,6 @@ The student blocks/parries, clips whenever possible and returns a counter strike
 <div class="article-images">
   {% assign pageurl = page.url | slugify | remove: "-html" %}
   {% for file in site.static_files %}
-    <figure><img src="{{ file.path }}" alt="image" /></figure>
+    <figure><img src="{{ file.path }}" alt="---" /></figure>
   {% endfor %}
 </div>
