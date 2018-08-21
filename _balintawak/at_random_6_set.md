@@ -10,8 +10,9 @@ The sixth set of At–Random Balintawak Arnis strikes can be the #1,#3, #6, #7, 
 
 The student blocks/parries, clips whenever possible and returns a counter strike to the instructor’s head. The footwork of both student and instructor follows on from the earlier Balintawak Eskrima training of the instructor Balintawak Arnis Twelve (12) Basic Strikes and their Balintawak Escrima Blocks and Counters.
 
-{% assign pageurl = page.url | slugify | remove: "-html" %}
-
-{% for file in site.static_files %}
-  <figure><img src="{{ file.path }}" alt="image" /></figure>
-{% endfor %}
+<div class="article-images">
+  {% assign pageurl = page.url | slugify | remove: "-html" %}
+  {% for file in site.static_files %}
+    <figure><img src="{{ file.path }}" alt="image" /></figure>
+  {% endfor %}
+</div>

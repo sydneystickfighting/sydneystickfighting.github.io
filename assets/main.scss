@@ -3,3 +3,15 @@
 ---
 
 @import "minima";
+
+// Article
+.article-images {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 1%;
+  margin-top: 2rem;
+
+  figure {
+    margin-bottom: 2rem;
+  }
+}
