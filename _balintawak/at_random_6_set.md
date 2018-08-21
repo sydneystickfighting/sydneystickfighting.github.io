@@ -13,7 +13,7 @@ The student blocks/parries, clips whenever possible and returns a counter strike
 <div class="article-images">
   {% assign pageurl = page.url | slugify | remove: "-html" %}
   {% for file in site.static_files %}
-    {% if file contains "Gem" %}
+    {% if file.path contains "Gem" %}
 
     {% else %}
       <figure><img src="{{ file.path }}" alt="---" /></figure>
