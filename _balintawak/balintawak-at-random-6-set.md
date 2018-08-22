@@ -3,6 +3,7 @@ layout: article
 title: "Balintawak at random #6 set"
 date: 2016-02-05
 tags: random balintawak
+permalink: balintawak-at-random-6-set
 order: 1
 ---
 

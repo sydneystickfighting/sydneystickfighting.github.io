@@ -3,6 +3,7 @@ layout: article
 title: "The Russell Balintawak twelve blocks and counters"
 date: 2015-01-14
 tags: balintawak basic counters
+permalink: russell-balintawak-twelve-blocks-and-counters
 order: 2
 ---
 

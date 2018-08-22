@@ -3,6 +3,7 @@ layout: article
 title: "Quebec Static Footwork Barehanded 4"
 date: 2016-02-08
 tags: quebec serrada barehand
+permalink: quebec-static-footwork-barehanded-4
 order: 1
 ---
 
