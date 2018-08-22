@@ -5,9 +5,7 @@
 layout: home
 ---
 
-## What we're about
-
-A group for practitioners of the Filipino art of [Balintawak Arnis][balintawak-eskrima] and aspects of other systems of Arnis and Escrima or Filipino Stick Fighting. Arnis (also known as Esgrima or Kali) is a very practical martial art that involves sticks, striking, grappling or improvised weapons. The same motions taught with weapons can also be used barehanded.
+We are practitioners of the Filipino art of [Balintawak Arnis][balintawak-eskrima] and aspects of other systems of Arnis and Escrima or Filipino Stick Fighting. Arnis (also known as Esgrima or Kali) is a very practical martial art that involves sticks, striking, grappling or improvised weapons. The same motions taught with weapons can also be used barehanded.
 
 Find us on [Meetup][meetup].
 
