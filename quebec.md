@@ -5,5 +5,5 @@ permalink: quebec
 ---
 
 {%- for item in site.quebec -%}
-  {{ item.content }}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
 {%- endfor -%}

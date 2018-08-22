@@ -7,4 +7,4 @@ layout: home
 
 Content coming soon!
 
-In the meantime, please check links under 'Balintawak'.
+In the meantime, please check links under 'Balintawak' and 'Quebec Serrada'.
