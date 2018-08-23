@@ -4,6 +4,7 @@ title: General FMA
 permalink: general
 ---
 
-{%- for item in site.general -%}
+{% assign listing = site.general | sort: 'order'  %}
+{%- for item in listing -%}
   {{ item.content }}
 {%- endfor -%}

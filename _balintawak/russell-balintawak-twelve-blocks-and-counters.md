@@ -4,7 +4,7 @@ title: "The Russell Balintawak twelve blocks and counters"
 date: 2015-01-14
 tags: balintawak basic counters
 permalink: russell-balintawak-twelve-blocks-and-counters
-order: 2
+order: 1
 ---
 
 The Basic Blocks and Counters coincide with the Twelve Basic Strikes. The Basic Footwork is taught in conjunction with the Basic Blocks and Counters and gives the student the knowledge which is needed to manoeuvre and properly position their body for a more stronger faster reaction and defence.
