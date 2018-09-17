@@ -21,7 +21,9 @@ layout: default
 
   {% include article_images.html %}
 
-  {% include article_tags.html %}
+  <div class="content-bottom">
+    {% include article_tags.html %}
+  </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

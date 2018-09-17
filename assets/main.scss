@@ -8,9 +8,9 @@
 .article-images {
   display: grid;
   grid-template-columns: 50% 50%;
-  grid-gap: 1%;
+  grid-gap: 20px;
   margin-top: 2rem;
-
+  margin-bottom: 100px;
   figure {
     margin-bottom: 2rem;
   }
